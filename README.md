@@ -22,8 +22,6 @@ Figure 1 and 2 below shows a partial view of the outputs.
 
 Figure 1
 
-
 ![My Image](Images/accuracy.png)
-
 
 Figure 2
