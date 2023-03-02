@@ -17,9 +17,11 @@ Three layers were included. The number of input features was 45. The number of h
 - A total of 6,141 parameters were created 
 - The accuracy of the model was 72.7%, slightly below the target of 75%.
 Figure 1 and 2 below shows a partial view of the outputs.
-
+<br>
 ![My Image](Images/summary.png)
+<br>
 Figure 1
-
+<br>
 ![My Image](Images/accuracy.png)
-Figure 1
+<br>
+Figure 2
