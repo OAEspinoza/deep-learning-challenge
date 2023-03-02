@@ -21,7 +21,8 @@ Figure 1 and 2 below shows a partial view of the outputs.
 ![My Image](Images/summary.png)
 
 Figure 1
+<br>
 
 ![My Image](Images/accuracy.png)
-
+<br>
 Figure 2
