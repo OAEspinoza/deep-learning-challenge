@@ -26,6 +26,7 @@ Figure 1
 
 Figure 2
 
+
 ### Optimizing the Model
 In the second trial, the column "NAME" was kept, and this resulted in an accuracy of 78%. Figures 3 and 4 show the model and results.
 
