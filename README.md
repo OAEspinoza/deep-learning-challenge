@@ -22,8 +22,10 @@ Figure 1 and 2 below shows a partial view of the model and its outputs.
 
 Figure 1
 
-![My Image](Images/accuracy.png)
-
+--------
+268/268 - 0s - loss: 0.5613 - accuracy: 0.7315 - 226ms/epoch - 845us/step
+Loss: 0.5613420009613037, Accuracy: 0.7315452098846436
+--------
 Figure 2
 
 
@@ -34,7 +36,9 @@ In the second trial, the column "NAME" was kept, and this resulted in an accurac
 
 Figure 3
 
-![My Image](Images/accuracy2.png)
-
+--------
+268/268 - 0s - loss: 0.4914 - accuracy: 0.7848 - 243ms/epoch - 908us/step
+Loss: 0.491421103477478, Accuracy: 0.7848396301269531
+--------
 Figure 4
 
