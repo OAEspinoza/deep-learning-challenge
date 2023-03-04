@@ -51,16 +51,23 @@ Total params: 6,221<br>
 Trainable params: 6,221<br>
 Non-trainable params: 0<br>
 Number of input features:  46<br>
-<br>
-#### Table 2
-________
-268/268 - 0s - 226ms/epoch - 845us/step<br>
-Loss: 0.5613420009613037<br>Accuracy: 0.7315452098846436
-________
 
+#### Table 2
+<table>
+    <tr>
+        <td>268/268 - 0s - 226ms/epoch - 845us/step</td>
+    </tr>
+    <tr>
+        <td>Loss: 0.5613420009613037</td>
+    </tr>
+    <tr>
+        <td>Accuracy: 0.7315452098846436</td>
+    </tr>
+</table>
 
 ### Optimizing the Model
 In the second trial, the column "NAME" was kept, and this resulted in an accuracy of 78%. Tables 3 and 4 show the model and results.
+<br>
 
 #### Table 3
 <table>
@@ -97,9 +104,16 @@ Number of input features:  449<br>
 <br>
 
 #### Table 4
-________
-268/268 - 0s - 243ms/epoch - 908us/step<br>
-Loss: 0.491421103477478<br>Accuracy: 0.7848396301269531
-________
+<table>
+    <tr>
+        <td>268/268 - 0s - 243ms/epoch - 908us/step</td>
+    </tr>
+    <tr>
+        <td>Loss: 0.491421103477478</td>
+    </tr>
+    <tr>
+        <td>Accuracy: 0.7848396301269531</td>
+    </tr>
+</table>
 
 
