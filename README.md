@@ -18,7 +18,7 @@ Three layers were included. The number of input features was 45. The number of h
 - The accuracy of the model was 72.7%, slightly below the target of 75%.
 Tables 1 and 2 below show a partial view of the model and its outputs.
 
-Table 1
+#### Table 1
 <table>
     <tr>
         <td>Model: &quot;sequential&quot;</td>
@@ -51,8 +51,8 @@ Total params: 6,221<br>
 Trainable params: 6,221<br>
 Non-trainable params: 0<br>
 Number of input features:  46<br>
-
-Table 2
+<br>
+#### Table 2
 ________
 268/268 - 0s - 226ms/epoch - 845us/step<br>
 Loss: 0.5613420009613037<br>Accuracy: 0.7315452098846436
@@ -62,7 +62,7 @@ ________
 ### Optimizing the Model
 In the second trial, the column "NAME" was kept, and this resulted in an accuracy of 78%. Tables 3 and 4 show the model and results.
 
-Table 3
+#### Table 3
 <table>
     <tr>
         <td>Model: &quot;sequential_1&quot;</td>
@@ -94,8 +94,9 @@ Total params: 38,461<br>
 Trainable params: 38,461<br>
 Non-trainable params: 0<br>
 Number of input features:  449<br>
+<br>
 
-Table 4
+#### Table 4
 ________
 268/268 - 0s - 243ms/epoch - 908us/step<br>
 Loss: 0.491421103477478<br>Accuracy: 0.7848396301269531
