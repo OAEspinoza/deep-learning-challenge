@@ -55,8 +55,6 @@ Trainable params: 6,221<br>
 Non-trainable params: 0<br>
 Number of input features:  46<br>
 
-- Lastly, results were saved and exported to an HDF5 file (see "Content" folder)
-
 #### Table 2
 <table>
     <tr>
@@ -69,6 +67,8 @@ Number of input features:  46<br>
         <td>Accuracy: 0.7293294668197632</td>
     </tr>
 </table>
+
+- Lastly, results were saved and exported to an HDF5 file (see "Content" folder)
 
 ### Optimizing the Model
 In the second trial, the column "NAME" was kept, and this resulted in an accuracy of 78%. Tables 3 and 4 show the model and results. Similar steps for data pre-processing, compiling, training, and evaluating the model were followed.
